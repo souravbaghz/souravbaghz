@@ -1,6 +1,6 @@
 <h2> Hi there, I'm Sourav! 👋</h2>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=souravbaghz&show_icons=true&theme=radical" width="380">
-<p><em> Cyber Security Enthusiast and Bugbounty Hunter <br>
+<p><em> Cyber Security Enthusiast and IOT Hacker <br>
   A H4cker w1th eth1cal m1ndset <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br><br>
 </em></p>
 
