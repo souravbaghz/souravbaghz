@@ -7,7 +7,7 @@
 ### 👨‍💻 Interested In...
 - IOT Hacking
 - Vehicle Pentesting
-- Digital Forensics
+- RF Hacking
 
 <br>
 
