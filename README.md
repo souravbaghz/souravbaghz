@@ -1,13 +1,12 @@
 <h2> Hi there, I'm Sourav! 👋</h2>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=souravbaghz&show_icons=true&theme=radical" width="380">
-<p><em> Security Architect and Automotive Security Aspirant<br>
-  A Hacker with an ethical mindset <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br><br>
+<p><em> Security Architect and Automotive Security Consultant<br>
+  Offensive By Approach, Defensive By Mindset <br><br><img src="https://media0.giphy.com/media/nlmwU1uZgFGdq/giphy.gif" width="40"><br><br>
 </em></p>
 
 ### 👨‍💻 Interested In...
-- Automotive Security Testing
-- Embedded Hacking
-- RF Hacking
+- Embedded & RF Hacking
+- Breaking Security Around Me
 
 <br>
 
