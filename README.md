@@ -6,8 +6,7 @@
 
 ### 👨‍💻 Interested In...
 - Car Hacking 
-- Embedded & Hardware Hacking
-- RF Hacking
+- Embedded or Hardware Hacking
 - Drone Hacking
 - Breaking Security Around Me
 
